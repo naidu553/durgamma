@@ -1,0 +1,2 @@
+# durgamma
+durgamma host namne
